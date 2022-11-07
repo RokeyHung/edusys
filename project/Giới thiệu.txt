@@ -1,0 +1,8 @@
+Polypro là dự án mẫu. Mục tiêu chính là huẩn luyện sinh viên quy trình thực hiện dự án.
+
+Mục tiêu của dự án là để rèn luyện kỹ năng IO (CDIO) tức không yêu cầu sinh viên phải thu thập phân tích mà chỉ thực hiện và vận hành một phần mềm chuẩn bị cho các dự án sau này. Các kỹ năng CD (trong CDIO) sễ được huấn luyện ở dự án 1 và dự án 2.
+
+Yêu cầu về môi trường:
+1. Hệ điều hành bất kỳ
+2. JDK 1.8 trở lên
+3. SQL Server 2008 trở lên
